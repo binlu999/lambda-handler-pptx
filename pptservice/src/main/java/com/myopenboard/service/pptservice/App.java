@@ -7,9 +7,8 @@ import java.io.IOException;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 
+import com.myopenboard.service.logger.AppLogger;
 import com.myopenboard.service.pptservice.merger.PPTXMerger;
 
 /**
@@ -17,7 +16,7 @@ import com.myopenboard.service.pptservice.merger.PPTXMerger;
  *
  */
 public class App {
-	private static final Logger logger = LoggerFactory.getLogger(App.class);
+	private static final AppLogger logger = AppLogger.getLogger(App.class);
 
 	public static void main(String[] args) {
 

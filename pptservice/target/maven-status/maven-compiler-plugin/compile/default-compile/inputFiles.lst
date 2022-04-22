@@ -1,2 +1,6 @@
-C:\dev\workspace-jboss\java-lambda\pptservice\src\main\java\com\myopenboard\service\pptservice\merger\PPTXMerger.java
-C:\dev\workspace-jboss\java-lambda\pptservice\src\main\java\com\myopenboard\service\pptservice\App.java
+C:\GITHUB\lambda-handler-pptx\pptservice\src\main\java\com\myopenboard\service\logger\AppLogger.java
+C:\GITHUB\lambda-handler-pptx\pptservice\src\main\java\com\myopenboard\service\pptservice\handler\EventHandler.java
+C:\GITHUB\lambda-handler-pptx\pptservice\src\main\java\com\myopenboard\service\pptservice\App.java
+C:\GITHUB\lambda-handler-pptx\pptservice\src\main\java\com\myopenboard\service\pptservice\merger\PPTXMerger.java
+C:\GITHUB\lambda-handler-pptx\pptservice\src\main\java\com\myopenboard\service\pptservice\config\EnvironmentConfig.java
+C:\GITHUB\lambda-handler-pptx\pptservice\src\main\java\com\myopenboard\service\pptservice\aws\S3FileHandler.java
